@@ -11,7 +11,7 @@ namespace Conector
 {
     using System;
     using System.Collections.Generic;
-    
+    using Newtonsoft.Json;
     public partial class ROLES
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -24,6 +24,8 @@ namespace Conector
         public string NOMBRE_ROL { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+
+        [JsonIgnore]
         public virtual ICollection<USUARIO> USUARIO { get; set; }
     }
 }

@@ -11,7 +11,7 @@ namespace Conector
 {
     using System;
     using System.Collections.Generic;
-    
+    using Newtonsoft.Json;
     public partial class PRODUCTO
     {
         public int COD_PRODUCTO { get; set; }
@@ -19,7 +19,8 @@ namespace Conector
         public decimal PRECIO { get; set; }
         public int STOCK { get; set; }
         public Nullable<int> NIT_PROVEEDOR { get; set; }
-    
+
+        [JsonIgnore]
         public virtual PROVEEDOR PROVEEDOR { get; set; }
     }
 }

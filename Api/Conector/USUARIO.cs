@@ -11,6 +11,7 @@ namespace Conector
 {
     using System;
     using System.Collections.Generic;
+    using Newtonsoft.Json;
     
     public partial class USUARIO
     {
@@ -18,7 +19,9 @@ namespace Conector
         public string NOMBRE_USUARIO { get; set; }
         public string CLAVE { get; set; }
         public Nullable<int> ID_ROL { get; set; }
-    
+
+
+        [JsonIgnore]
         public virtual ROLES ROLES { get; set; }
     }
 }
