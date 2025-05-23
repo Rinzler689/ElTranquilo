@@ -18,6 +18,8 @@ namespace InventarioElTranquilo
             InitializeComponent();
         }
 
+
+
         private void limpiar()
         {
             txUsuario.Clear();

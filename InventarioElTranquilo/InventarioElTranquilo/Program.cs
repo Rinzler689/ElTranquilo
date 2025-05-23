@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace InventarioElTranquilo
 {
-    internal static class Program
+    public static class Program
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
@@ -18,5 +18,8 @@ namespace InventarioElTranquilo
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
         }
+
+
+        
     }
 }

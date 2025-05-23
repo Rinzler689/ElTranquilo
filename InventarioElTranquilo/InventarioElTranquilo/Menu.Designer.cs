@@ -29,15 +29,15 @@
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.btConsultar = new System.Windows.Forms.ToolStripMenuItem();
+            this.btConsultarProducto = new System.Windows.Forms.ToolStripMenuItem();
             this.btConsultarCodigo = new System.Windows.Forms.ToolStripMenuItem();
             this.btConsultaNombre = new System.Windows.Forms.ToolStripMenuItem();
             this.btAgregarProducto = new System.Windows.Forms.ToolStripMenuItem();
             this.btActualizarProducto = new System.Windows.Forms.ToolStripMenuItem();
+            this.btEliminarProducto = new System.Windows.Forms.ToolStripMenuItem();
             this.btNovedades = new System.Windows.Forms.ToolStripMenuItem();
             this.btIngresoProducto = new System.Windows.Forms.ToolStripMenuItem();
             this.btSalidaProducto = new System.Windows.Forms.ToolStripMenuItem();
-            this.btEliminarProducto = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -45,7 +45,7 @@
             // 
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.btConsultar,
+            this.btConsultarProducto,
             this.btAgregarProducto,
             this.btActualizarProducto,
             this.btEliminarProducto,
@@ -57,26 +57,27 @@
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // btConsultar
+            // btConsultarProducto
             // 
-            this.btConsultar.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.btConsultarProducto.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.btConsultarCodigo,
             this.btConsultaNombre});
-            this.btConsultar.Name = "btConsultar";
-            this.btConsultar.Size = new System.Drawing.Size(73, 22);
-            this.btConsultar.Text = "Consultar ";
-            this.btConsultar.Visible = false;
+            this.btConsultarProducto.Name = "btConsultarProducto";
+            this.btConsultarProducto.Size = new System.Drawing.Size(122, 22);
+            this.btConsultarProducto.Text = "Consultar Producto";
+            this.btConsultarProducto.Visible = false;
             // 
             // btConsultarCodigo
             // 
             this.btConsultarCodigo.Name = "btConsultarCodigo";
-            this.btConsultarCodigo.Size = new System.Drawing.Size(139, 22);
+            this.btConsultarCodigo.Size = new System.Drawing.Size(180, 22);
             this.btConsultarCodigo.Text = "Por Codigo";
+            this.btConsultarCodigo.Click += new System.EventHandler(this.btConsultarCodigo_Click);
             // 
             // btConsultaNombre
             // 
             this.btConsultaNombre.Name = "btConsultaNombre";
-            this.btConsultaNombre.Size = new System.Drawing.Size(139, 22);
+            this.btConsultaNombre.Size = new System.Drawing.Size(180, 22);
             this.btConsultaNombre.Text = "Por Nombre";
             // 
             // btAgregarProducto
@@ -92,6 +93,13 @@
             this.btActualizarProducto.Size = new System.Drawing.Size(123, 22);
             this.btActualizarProducto.Text = "Actualizar Producto";
             this.btActualizarProducto.Visible = false;
+            // 
+            // btEliminarProducto
+            // 
+            this.btEliminarProducto.Name = "btEliminarProducto";
+            this.btEliminarProducto.Size = new System.Drawing.Size(114, 22);
+            this.btEliminarProducto.Text = "Eliminar Producto";
+            this.btEliminarProducto.Visible = false;
             // 
             // btNovedades
             // 
@@ -115,13 +123,6 @@
             this.btSalidaProducto.Size = new System.Drawing.Size(181, 22);
             this.btSalidaProducto.Text = "Salida de Producto";
             // 
-            // btEliminarProducto
-            // 
-            this.btEliminarProducto.Name = "btEliminarProducto";
-            this.btEliminarProducto.Size = new System.Drawing.Size(114, 22);
-            this.btEliminarProducto.Text = "Eliminar Producto";
-            this.btEliminarProducto.Visible = false;
-            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -144,7 +145,7 @@
         #endregion
 
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem btConsultar;
+        private System.Windows.Forms.ToolStripMenuItem btConsultarProducto;
         private System.Windows.Forms.ToolStripMenuItem btConsultarCodigo;
         private System.Windows.Forms.ToolStripMenuItem btConsultaNombre;
         private System.Windows.Forms.ToolStripMenuItem btAgregarProducto;

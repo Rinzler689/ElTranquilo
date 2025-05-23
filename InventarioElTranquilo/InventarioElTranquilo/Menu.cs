@@ -23,11 +23,11 @@ namespace InventarioElTranquilo
             switch (rol)
             {
                 case 11:
-                    btConsultar.Visible = true;
+                    btConsultarProducto.Visible = true;
                     btNovedades.Visible = true;
                     break;
                 case 22:
-                    btConsultar.Visible= true;
+                    btConsultarProducto.Visible= true;
                     btAgregarProducto.Visible = true;
                     btActualizarProducto.Visible = true;
                     btEliminarProducto.Visible = true;  
@@ -35,7 +35,7 @@ namespace InventarioElTranquilo
                     break;
 
                 case 33:
-                    btConsultar.Visible = true;
+                    btConsultarProducto.Visible = true;
                     btAgregarProducto.Visible = true;
                     btActualizarProducto.Visible = true;
                     btEliminarProducto.Visible = true;
@@ -45,6 +45,13 @@ namespace InventarioElTranquilo
                 default:
                     break;
             }
+        }
+
+        private void btConsultarCodigo_Click(object sender, EventArgs e)
+        {
+            ConsultarPorCodigo objConsultarPorCodigo = new ConsultarPorCodigo();
+            objConsultarPorCodigo.MdiParent = this;
+            objConsultarPorCodigo.Show();
         }
     }
 }
