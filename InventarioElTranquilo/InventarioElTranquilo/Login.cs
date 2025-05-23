@@ -18,6 +18,11 @@ namespace InventarioElTranquilo
             InitializeComponent();
         }
 
+        private void limpiar()
+        {
+            txUsuario.Clear();
+            txClave.Clear();    
+        }
         private void btIngresar_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrEmpty(txUsuario.Text) || string.IsNullOrEmpty(txClave.Text))
@@ -25,28 +30,36 @@ namespace InventarioElTranquilo
                 MessageBox.Show("Debe ingresar toda la información");
             }else{
                 dynamic respuesta = DbApi.Get(urlAPI);
-                MessageBox.Show("zi conecto");
                 string[] contenido = respuesta.ToString().Split('}');
 
                 for (int i = 0; i < contenido.Length - 1; i++)
                 {
-                    //MessageBox.Show(respuesta[i].ToString());
-                   
+
+    
                     if ((txUsuario.Text==respuesta[i].NOMBRE_USUARIO.ToString()) && (txClave.Text == respuesta[i].CLAVE.ToString()))
                     {
-                        MessageBox.Show("paso nombre y clave");
-                        Menu objMenu = new Menu();
+
+                        Menu objMenu = new Menu(Int32.Parse(respuesta[i].ID_ROL.ToString()));
                         this.Hide();
                         objMenu.Show();
                         return;
                     }
-                    else
-                    {
-                        MessageBox.Show("No entro al if deseado =(");
-                    }
+
                 }
+                MessageBox.Show("Usuario o Clave incorrectos");
+                limpiar();
             }
             
+        }
+
+        private void btLimpiar_Click(object sender, EventArgs e)
+        {
+            limpiar();
+        }
+
+        private void btSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit(); 
         }
     }
 }
