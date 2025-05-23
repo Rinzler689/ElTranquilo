@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="49a5e33da2554e378d42ca1a6c9f70bd" Name="Diagram1">
+        <EntityTypeShape EntityType="db20030Model.PRODUCTO" Width="1.5" PointX="6.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="db20030Model.PROVEEDOR" Width="1.5" PointX="3.5" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db20030Model.ROLES" Width="1.5" PointX="2.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="db20030Model.USUARIO" Width="1.5" PointX="6" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="db20030Model.FK__PRODUCTO__NIT_PR__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="db20030Model.FK__USUARIO__ID_ROL__3E52440B" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
