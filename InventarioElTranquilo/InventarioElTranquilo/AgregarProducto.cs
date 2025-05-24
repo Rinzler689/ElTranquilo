@@ -35,7 +35,7 @@ namespace InventarioElTranquilo
             string json = JsonConvert.SerializeObject(objProducto);
             dynamic respuesta = DbApi.Post(urlAPI, json);
 
-            if (respuesta.ToString() == 1)
+            if (respuesta == 1)
             {
                 MessageBox.Show("La creación del Producto fue exitosa");
             }
