@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\kevin\\desktop\\proyecto\\inventarioeltranquilo\\inventarioeltranquilo\\consultarporcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\consultarporcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\kevin\\desktop\\proyecto\\inventarioeltranquilo\\inventarioeltranquilo\\consultarporcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\consultarporcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\kevin\\desktop\\proyecto\\inventarioeltranquilo\\inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\kevin\\desktop\\proyecto\\inventarioeltranquilo\\inventarioeltranquilo\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\consultarporcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\consultarporcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\consultarnombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\consultarnombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\consultarnombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\consultarnombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\consultarporcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\consultarporcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Menu.cs",
               "RelativeDocumentMoniker": "InventarioElTranquilo\\Menu.cs",
@@ -63,13 +79,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Menu.cs",
               "RelativeDocumentMoniker": "InventarioElTranquilo\\Menu.cs",
               "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Menu.cs",
               "RelativeToolTip": "InventarioElTranquilo\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAhwDUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T02:32:21.119Z",
               "IsPinned": true,
@@ -77,58 +93,114 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConsultarPorCodigo.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarPorCodigo.cs",
-              "RelativeDocumentMoniker": "InventarioElTranquilo\\ConsultarPorCodigo.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarPorCodigo.cs",
-              "RelativeToolTip": "InventarioElTranquilo\\ConsultarPorCodigo.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAEwDsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:38:30.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Program.cs",
-              "RelativeDocumentMoniker": "InventarioElTranquilo\\Program.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Program.cs",
-              "RelativeToolTip": "InventarioElTranquilo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Title": "AgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\AgregarProducto.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\AgregarProducto.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\AgregarProducto.cs",
+              "RelativeToolTip": "InventarioElTranquilo\\AgregarProducto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wCUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T03:09:50.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs",
-              "RelativeDocumentMoniker": "InventarioElTranquilo\\Login.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs",
-              "RelativeToolTip": "InventarioElTranquilo\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T02:46:33.074Z",
+              "WhenOpened": "2025-05-23T20:31:42.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\AgregarProducto.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\AgregarProducto.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\AgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InventarioElTranquilo\\AgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:29:04.635Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultarNombre.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarNombre.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\ConsultarNombre.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarNombre.cs",
+              "RelativeToolTip": "InventarioElTranquilo\\ConsultarNombre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:03:27.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultarNombre.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarNombre.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\ConsultarNombre.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarNombre.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InventarioElTranquilo\\ConsultarNombre.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:01:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultarPorCodigo.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarPorCodigo.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\ConsultarPorCodigo.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarPorCodigo.cs",
+              "RelativeToolTip": "InventarioElTranquilo\\ConsultarPorCodigo.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAASwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:38:30.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\Login.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs",
+              "RelativeToolTip": "InventarioElTranquilo\\Login.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:46:33.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbApi.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\DbApi.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\DbApi.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\DbApi.cs",
+              "RelativeToolTip": "InventarioElTranquilo\\DbApi.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:58:36.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ConsultarPorCodigo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarPorCodigo.cs",
               "RelativeDocumentMoniker": "InventarioElTranquilo\\ConsultarPorCodigo.cs",
               "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\ConsultarPorCodigo.cs [Dise\u00F1o]",
               "RelativeToolTip": "InventarioElTranquilo\\ConsultarPorCodigo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:25:16.406Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-23T16:25:16.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Producto.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\Producto.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Producto.cs",
+              "RelativeToolTip": "InventarioElTranquilo\\Producto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:32:34.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Usuario.cs",
               "RelativeDocumentMoniker": "InventarioElTranquilo\\Usuario.cs",
@@ -136,33 +208,18 @@
               "RelativeToolTip": "InventarioElTranquilo\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T03:06:09.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T03:06:09.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DbApi.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\DbApi.cs",
-              "RelativeDocumentMoniker": "InventarioElTranquilo\\DbApi.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\DbApi.cs",
-              "RelativeToolTip": "InventarioElTranquilo\\DbApi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T02:58:36.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs",
               "RelativeDocumentMoniker": "InventarioElTranquilo\\Login.cs",
               "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "InventarioElTranquilo\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T02:43:52.917Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-23T02:43:52.917Z"
             }
           ]
         }

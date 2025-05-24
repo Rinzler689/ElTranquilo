@@ -33,3 +33,5 @@ C:\Users\kevin\Desktop\Proyecto\InventarioElTranquilo\InventarioElTranquilo\bin\
 C:\Users\kevin\Desktop\Proyecto\InventarioElTranquilo\InventarioElTranquilo\bin\Debug\System.ValueTuple.xml
 C:\Users\kevin\Desktop\Proyecto\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\Inventar.94902939.Up2Date
 C:\Users\kevin\Desktop\Proyecto\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.ConsultarPorCodigo.resources
+C:\Users\kevin\Desktop\Proyecto\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.ConsultarNombre.resources
+C:\Users\kevin\Desktop\Proyecto\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.AgregarProducto.resources

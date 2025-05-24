@@ -53,5 +53,19 @@ namespace InventarioElTranquilo
             objConsultarPorCodigo.MdiParent = this;
             objConsultarPorCodigo.Show();
         }
+
+        private void btConsultaNombre_Click(object sender, EventArgs e)
+        {
+            ConsultarNombre objConsultarNombre = new ConsultarNombre(); 
+            objConsultarNombre.MdiParent = this;
+            objConsultarNombre.Show();
+        }
+
+        private void btAgregarProducto_Click(object sender, EventArgs e)
+        {
+            AgregarProducto objAgregarProducto = new AgregarProducto();
+            objAgregarProducto.MdiParent= this;
+            objAgregarProducto.Show();
+        }
     }
 }
