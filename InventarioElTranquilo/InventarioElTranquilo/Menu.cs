@@ -67,5 +67,12 @@ namespace InventarioElTranquilo
             objAgregarProducto.MdiParent= this;
             objAgregarProducto.Show();
         }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Login objLogin = new Login();
+            objLogin.Show();
+        }
     }
 }

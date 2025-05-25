@@ -19,6 +19,14 @@ namespace InventarioElTranquilo
             InitializeComponent();
         }
 
+        private void limpiar()
+        {
+            txCodigo.Clear();
+            txNombre.Clear();
+            txPrecio.Clear();
+            txStock.Clear();
+            txNit.Clear();
+        }
         public Producto leerProducto()
         {
             int cod_producto = Int32.Parse(txCodigo.Text);
@@ -31,18 +39,47 @@ namespace InventarioElTranquilo
         }
         private void btAgregarProducto_Click(object sender, EventArgs e)
         {
-            Producto objProducto = leerProducto();
-            string json = JsonConvert.SerializeObject(objProducto);
-            dynamic respuesta = DbApi.Post(urlAPI, json);
+            bool encontro = false;
 
-            if (respuesta == 1)
+            Producto objProducto = leerProducto();
+
+            dynamic respuesta1 = DbApi.Get(urlAPI);
+            string[] contenido = respuesta1.ToString().Split('}');
+
+            for (int i = 0; i < contenido.Length - 1; i++)
             {
-                MessageBox.Show("La creación del Producto fue exitosa");
+                if (objProducto.Cod_producto== Int32.Parse(respuesta1[i].COD_PRODUCTO.ToString()))
+                {
+                    MessageBox.Show("El código del producto que estás ingresando ya existe.");
+                    encontro = true;
+                    return;
+                }
             }
-            else
+
+            if (encontro == false)
             {
-                MessageBox.Show("Fallo la creación del Producto, revise la información");
+                string json = JsonConvert.SerializeObject(objProducto);
+                dynamic respuesta2 = DbApi.Post(urlAPI, json);
+
+                if (respuesta2 == 1)
+                {
+                    MessageBox.Show("La creación del Producto fue exitosa");
+                }
+                else
+                {
+                    MessageBox.Show("Falló la creación del Producto, revise la información");
+                }
             }
+        }
+
+        private void btLimpiar_Click(object sender, EventArgs e)
+        {
+            limpiar();
+        }
+
+        private void btRegresar_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
