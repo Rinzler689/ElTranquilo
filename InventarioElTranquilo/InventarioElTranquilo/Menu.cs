@@ -42,8 +42,7 @@ namespace InventarioElTranquilo
                     btNovedades.Visible = true;
                     break;
 
-                default:
-                    break;
+
             }
         }
 

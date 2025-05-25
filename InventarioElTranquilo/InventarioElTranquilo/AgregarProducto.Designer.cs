@@ -31,7 +31,6 @@
             this.btLimpiar = new System.Windows.Forms.Button();
             this.btRegresar = new System.Windows.Forms.Button();
             this.btAgregarProducto = new System.Windows.Forms.Button();
-            this.txNit = new System.Windows.Forms.TextBox();
             this.txStock = new System.Windows.Forms.TextBox();
             this.txPrecio = new System.Windows.Forms.TextBox();
             this.txNombre = new System.Windows.Forms.TextBox();
@@ -42,13 +41,14 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.cbNit = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // btLimpiar
             // 
             this.btLimpiar.Font = new System.Drawing.Font("Franklin Gothic Heavy", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btLimpiar.Location = new System.Drawing.Point(455, 258);
-            this.btLimpiar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btLimpiar.Margin = new System.Windows.Forms.Padding(2);
             this.btLimpiar.Name = "btLimpiar";
             this.btLimpiar.Size = new System.Drawing.Size(91, 27);
             this.btLimpiar.TabIndex = 43;
@@ -60,7 +60,7 @@
             // 
             this.btRegresar.Font = new System.Drawing.Font("Franklin Gothic Heavy", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btRegresar.Location = new System.Drawing.Point(447, 207);
-            this.btRegresar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btRegresar.Margin = new System.Windows.Forms.Padding(2);
             this.btRegresar.Name = "btRegresar";
             this.btRegresar.Size = new System.Drawing.Size(91, 30);
             this.btRegresar.TabIndex = 42;
@@ -72,20 +72,13 @@
             // 
             this.btAgregarProducto.Font = new System.Drawing.Font("Franklin Gothic Heavy", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btAgregarProducto.Location = new System.Drawing.Point(447, 153);
-            this.btAgregarProducto.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btAgregarProducto.Margin = new System.Windows.Forms.Padding(2);
             this.btAgregarProducto.Name = "btAgregarProducto";
             this.btAgregarProducto.Size = new System.Drawing.Size(127, 33);
             this.btAgregarProducto.TabIndex = 41;
             this.btAgregarProducto.Text = "Agregar Producto";
             this.btAgregarProducto.UseVisualStyleBackColor = true;
             this.btAgregarProducto.Click += new System.EventHandler(this.btAgregarProducto_Click);
-            // 
-            // txNit
-            // 
-            this.txNit.Location = new System.Drawing.Point(134, 288);
-            this.txNit.Name = "txNit";
-            this.txNit.Size = new System.Drawing.Size(100, 20);
-            this.txNit.TabIndex = 40;
             // 
             // txStock
             // 
@@ -181,15 +174,23 @@
             this.label1.TabIndex = 30;
             this.label1.Text = "Agregar Producto";
             // 
+            // cbNit
+            // 
+            this.cbNit.FormattingEnabled = true;
+            this.cbNit.Location = new System.Drawing.Point(143, 286);
+            this.cbNit.Name = "cbNit";
+            this.cbNit.Size = new System.Drawing.Size(121, 21);
+            this.cbNit.TabIndex = 44;
+            // 
             // AgregarProducto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(600, 366);
+            this.Controls.Add(this.cbNit);
             this.Controls.Add(this.btLimpiar);
             this.Controls.Add(this.btRegresar);
             this.Controls.Add(this.btAgregarProducto);
-            this.Controls.Add(this.txNit);
             this.Controls.Add(this.txStock);
             this.Controls.Add(this.txPrecio);
             this.Controls.Add(this.txNombre);
@@ -200,7 +201,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "AgregarProducto";
             this.Text = "AgregarProducto";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -214,7 +215,6 @@
         private System.Windows.Forms.Button btLimpiar;
         private System.Windows.Forms.Button btRegresar;
         private System.Windows.Forms.Button btAgregarProducto;
-        private System.Windows.Forms.TextBox txNit;
         private System.Windows.Forms.TextBox txStock;
         private System.Windows.Forms.TextBox txPrecio;
         private System.Windows.Forms.TextBox txNombre;
@@ -225,5 +225,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox cbNit;
     }
 }
