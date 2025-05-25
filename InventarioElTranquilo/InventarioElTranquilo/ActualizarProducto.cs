@@ -139,7 +139,6 @@ namespace InventarioElTranquilo
                 cbNit.Enabled = false;
                 btCancelar.Enabled = false;
                 btActualizarProducto.Enabled = false;   
-                btConsultar.Enabled = true;
                 limpiar();
             }
             else
@@ -178,8 +177,7 @@ namespace InventarioElTranquilo
                         txPrecio.Enabled = true;
                         txStock.Enabled = true;
                         cbNit.Enabled = true;
-                        btCancelar.Enabled = true;
-                        btConsultar.Enabled = false;
+                        btCancelar.Enabled = true;                      
                         btActualizarProducto.Enabled = true;
                         
                         return;
@@ -210,7 +208,6 @@ namespace InventarioElTranquilo
             txStock.Enabled = false;
             cbNit.Enabled = false;
             btActualizarProducto.Enabled = false;
-            btConsultar.Enabled = true;
             btCancelar.Enabled = false;
             
         }

@@ -71,7 +71,7 @@
             // 
             this.txNit.Enabled = false;
             this.txNit.Location = new System.Drawing.Point(198, 371);
-            this.txNit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txNit.Margin = new System.Windows.Forms.Padding(4);
             this.txNit.Name = "txNit";
             this.txNit.Size = new System.Drawing.Size(132, 22);
             this.txNit.TabIndex = 40;
@@ -80,7 +80,7 @@
             // 
             this.txStock.Enabled = false;
             this.txStock.Location = new System.Drawing.Point(155, 324);
-            this.txStock.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txStock.Margin = new System.Windows.Forms.Padding(4);
             this.txStock.Name = "txStock";
             this.txStock.Size = new System.Drawing.Size(132, 22);
             this.txStock.TabIndex = 39;
@@ -89,7 +89,7 @@
             // 
             this.txPrecio.Enabled = false;
             this.txPrecio.Location = new System.Drawing.Point(163, 266);
-            this.txPrecio.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txPrecio.Margin = new System.Windows.Forms.Padding(4);
             this.txPrecio.Name = "txPrecio";
             this.txPrecio.Size = new System.Drawing.Size(132, 22);
             this.txPrecio.TabIndex = 38;
@@ -158,7 +158,7 @@
             // 
             this.txCodigo.Enabled = false;
             this.txCodigo.Location = new System.Drawing.Point(175, 154);
-            this.txCodigo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txCodigo.Margin = new System.Windows.Forms.Padding(4);
             this.txCodigo.Name = "txCodigo";
             this.txCodigo.Size = new System.Drawing.Size(132, 22);
             this.txCodigo.TabIndex = 36;
@@ -169,11 +169,11 @@
             this.cbNombre.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
             this.cbNombre.FormattingEnabled = true;
             this.cbNombre.Location = new System.Drawing.Point(175, 202);
-            this.cbNombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbNombre.Margin = new System.Windows.Forms.Padding(4);
             this.cbNombre.Name = "cbNombre";
             this.cbNombre.Size = new System.Drawing.Size(285, 24);
             this.cbNombre.TabIndex = 44;
-            this.cbNombre.SelectedIndexChanged += new System.EventHandler(this.cbNombre_SelectedIndexChanged);
+            this.cbNombre.SelectedValueChanged += new System.EventHandler(this.cbNombre_SelectedIndexChanged);
             // 
             // EliminarProducto
             // 
@@ -193,9 +193,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "EliminarProducto";
             this.Text = "EliminarProducto";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
             this.PerformLayout();
 
