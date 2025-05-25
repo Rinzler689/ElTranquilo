@@ -21,12 +21,12 @@ namespace InventarioElTranquilo
 
         public Producto leerProducto()
         {
-            int id = Int32.Parse(txCodigo.Text);
+            int cod_producto = Int32.Parse(txCodigo.Text);
             string nombre = txNombre.Text;
             double precio = Double.Parse(txPrecio.Text);
-            int cantidad = Int32.Parse(txStock.Text);
-            int nit = Int32.Parse(txNit.Text);
-            Producto objProducto = new Producto(id,nombre,precio,cantidad,nit);
+            int stock = Int32.Parse(txStock.Text);
+            int nit_proveedor = Int32.Parse(txNit.Text);
+            Producto objProducto = new Producto(cod_producto,nombre,precio,stock,nit_proveedor);
             return objProducto;
         }
         private void btAgregarProducto_Click(object sender, EventArgs e)

@@ -8,25 +8,25 @@ namespace InventarioElTranquilo
 {
     public class Producto
     {
-        private int id;
-        private string nombreProducto;
+        private int cod_producto;
+        private string nombre;
         private double precio;
-        private int cantidad;
-        private int nit;
+        private int stock;
+        private int nit_proveedor;
 
-        public Producto(int id, string nombreProducto, double precio, int cantidad, int nit)
+        public Producto(int cod_producto, string nombre, double precio, int stock, int nit_proveedor)
         {
-            this.Id = id;
-            this.NombreProducto = nombreProducto;
+            this.Cod_producto = cod_producto;
+            this.Nombre = nombre;
             this.Precio = precio;
-            this.Cantidad = cantidad;
-            this.Nit = nit;
+            this.Stock = stock;
+            this.Nit_proveedor = nit_proveedor;
         }
 
-        public int Id { get => id; set => id = value; }
-        public string NombreProducto { get => nombreProducto; set => nombreProducto = value; }
+        public int Cod_producto { get => cod_producto; set => cod_producto = value; }
+        public string Nombre { get => nombre; set => nombre = value; }
         public double Precio { get => precio; set => precio = value; }
-        public int Cantidad { get => cantidad; set => cantidad = value; }
-        public int Nit { get => nit; set => nit = value; }
+        public int Stock { get => stock; set => stock = value; }
+        public int Nit_proveedor { get => nit_proveedor; set => nit_proveedor = value; }
     }
 }

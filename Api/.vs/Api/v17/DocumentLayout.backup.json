@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|c:\\users\\kevin\\desktop\\proyecto\\api\\conector\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|c:\\users\\usuario\\onedrive\\escritorio\\proyecto_eltranquilo\\eltranquilo\\api\\conector\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|solutionrelative:conector\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\conector\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\conector\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|solutionrelative:conector\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\conector\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\conector\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|solutionrelative:conector\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\conector\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\conector\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|solutionrelative:conector\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F3297A4-1FCD-4171-8766-5F12D176BCB4}|Api\\Api.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F3297A4-1FCD-4171-8766-5F12D176BCB4}|Api\\Api.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F3297A4-1FCD-4171-8766-5F12D176BCB4}|Api\\Api.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\conector\\eltranquilo777.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\conector\\eltranquilo777.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{173A22AE-9D5D-49A0-9DC1-DB2CDB5D3581}|Conector\\Conector.csproj|solutionrelative:conector\\eltranquilo777.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -40,22 +40,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "USUARIOController.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Api\\Controllers\\USUARIOController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Api\\Controllers\\USUARIOController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\USUARIOController.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Api\\Controllers\\USUARIOController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Api\\Controllers\\USUARIOController.cs",
               "RelativeToolTip": "Api\\Controllers\\USUARIOController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T04:19:25.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T04:19:25.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PROVEEDOR.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\PROVEEDOR.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Conector\\PROVEEDOR.cs",
               "RelativeDocumentMoniker": "Conector\\PROVEEDOR.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\PROVEEDOR.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Conector\\PROVEEDOR.cs",
               "RelativeToolTip": "Conector\\PROVEEDOR.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAmwB0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,52 +65,48 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ROLES.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\ROLES.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Conector\\ROLES.cs",
               "RelativeDocumentMoniker": "Conector\\ROLES.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\ROLES.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Conector\\ROLES.cs",
               "RelativeToolTip": "Conector\\ROLES.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T03:50:55.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T03:50:55.11Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PRODUCTO.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\PRODUCTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Conector\\PRODUCTO.cs",
               "RelativeDocumentMoniker": "Conector\\PRODUCTO.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\PRODUCTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Conector\\PRODUCTO.cs",
               "RelativeToolTip": "Conector\\PRODUCTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T03:36:26.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T03:36:26.018Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "USUARIO.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\USUARIO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Conector\\USUARIO.cs",
               "RelativeDocumentMoniker": "Conector\\USUARIO.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\USUARIO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Conector\\USUARIO.cs",
               "RelativeToolTip": "Conector\\USUARIO.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T03:36:10.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T03:36:10.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ElTranquilo777.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\ElTranquilo777.edmx",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\Api\\Conector\\ElTranquilo777.edmx",
               "RelativeDocumentMoniker": "Conector\\ElTranquilo777.edmx",
               "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\Api\\Conector\\ElTranquilo777.edmx [Diagram1]",
-              "RelativeToolTip": "Conector\\ElTranquilo777.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\kevin\\Desktop\\Proyecto\\Api\\Conector\\ElTranquilo777.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-05-22T02:02:42.254Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-05-22T02:02:42.254Z"
             }
           ]
         }
