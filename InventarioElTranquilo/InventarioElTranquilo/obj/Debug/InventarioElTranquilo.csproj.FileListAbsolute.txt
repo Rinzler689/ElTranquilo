@@ -109,3 +109,4 @@ C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTr
 C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\Inventar.94902939.Up2Date
 C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.exe
 C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.pdb
+C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.ActualizarProducto.resources

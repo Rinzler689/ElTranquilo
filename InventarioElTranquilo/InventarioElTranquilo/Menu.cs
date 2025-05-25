@@ -73,5 +73,12 @@ namespace InventarioElTranquilo
             Login objLogin = new Login();
             objLogin.Show();
         }
+
+        private void btActualizarProducto_Click(object sender, EventArgs e)
+        {
+            ActualizarProducto objActualizarProducto = new ActualizarProducto();    
+            objActualizarProducto.MdiParent = this;
+            objActualizarProducto.Show();   
+        }
     }
 }

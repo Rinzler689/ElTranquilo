@@ -97,6 +97,7 @@
             this.btActualizarProducto.Size = new System.Drawing.Size(123, 22);
             this.btActualizarProducto.Text = "Actualizar Producto";
             this.btActualizarProducto.Visible = false;
+            this.btActualizarProducto.Click += new System.EventHandler(this.btActualizarProducto_Click);
             // 
             // btEliminarProducto
             // 
