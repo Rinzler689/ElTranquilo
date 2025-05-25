@@ -109,6 +109,7 @@ namespace InventarioElTranquilo
                 if (respuesta2 == 1)
                 {
                     MessageBox.Show("La creación del Producto fue exitosa");
+                    limpiar();
                 }
                 else
                 {

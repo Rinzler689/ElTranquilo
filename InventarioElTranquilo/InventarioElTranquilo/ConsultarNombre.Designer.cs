@@ -34,7 +34,6 @@
             this.txNit = new System.Windows.Forms.TextBox();
             this.txStock = new System.Windows.Forms.TextBox();
             this.txPrecio = new System.Windows.Forms.TextBox();
-            this.txNombre = new System.Windows.Forms.TextBox();
             this.txCodigo = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -42,6 +41,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.cbNombre = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // btLimpiar
@@ -107,14 +107,6 @@
             this.txPrecio.Size = new System.Drawing.Size(132, 22);
             this.txPrecio.TabIndex = 24;
             // 
-            // txNombre
-            // 
-            this.txNombre.Location = new System.Drawing.Point(113, 175);
-            this.txNombre.Margin = new System.Windows.Forms.Padding(4);
-            this.txNombre.Name = "txNombre";
-            this.txNombre.Size = new System.Drawing.Size(132, 22);
-            this.txNombre.TabIndex = 23;
-            // 
             // txCodigo
             // 
             this.txCodigo.Enabled = false;
@@ -130,7 +122,7 @@
             this.label6.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(21, 338);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(130, 29);
+            this.label6.Size = new System.Drawing.Size(108, 24);
             this.label6.TabIndex = 21;
             this.label6.Text = "Nit Proveedor:";
             // 
@@ -140,7 +132,7 @@
             this.label5.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(21, 287);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(66, 29);
+            this.label5.Size = new System.Drawing.Size(55, 24);
             this.label5.TabIndex = 20;
             this.label5.Text = "Stock:";
             // 
@@ -150,7 +142,7 @@
             this.label4.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(21, 229);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(70, 29);
+            this.label4.Size = new System.Drawing.Size(58, 24);
             this.label4.TabIndex = 19;
             this.label4.Text = "Precio:";
             // 
@@ -160,7 +152,7 @@
             this.label2.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(21, 169);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(85, 29);
+            this.label2.Size = new System.Drawing.Size(70, 24);
             this.label2.TabIndex = 18;
             this.label2.Text = "Nombre:";
             // 
@@ -170,7 +162,7 @@
             this.label3.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(21, 117);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(78, 29);
+            this.label3.Size = new System.Drawing.Size(64, 24);
             this.label3.TabIndex = 17;
             this.label3.Text = "Codigo:";
             // 
@@ -180,22 +172,32 @@
             this.label1.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(318, 36);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(252, 38);
+            this.label1.Size = new System.Drawing.Size(199, 30);
             this.label1.TabIndex = 16;
             this.label1.Text = "Consulta Por Nombre";
+            // 
+            // cbNombre
+            // 
+            this.cbNombre.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.cbNombre.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.cbNombre.FormattingEnabled = true;
+            this.cbNombre.Location = new System.Drawing.Point(94, 170);
+            this.cbNombre.Name = "cbNombre";
+            this.cbNombre.Size = new System.Drawing.Size(254, 24);
+            this.cbNombre.TabIndex = 30;
             // 
             // ConsultarNombre
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.cbNombre);
             this.Controls.Add(this.btLimpiar);
             this.Controls.Add(this.btRegresar);
             this.Controls.Add(this.btConsultarNombre);
             this.Controls.Add(this.txNit);
             this.Controls.Add(this.txStock);
             this.Controls.Add(this.txPrecio);
-            this.Controls.Add(this.txNombre);
             this.Controls.Add(this.txCodigo);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -219,7 +221,6 @@
         private System.Windows.Forms.TextBox txNit;
         private System.Windows.Forms.TextBox txStock;
         private System.Windows.Forms.TextBox txPrecio;
-        private System.Windows.Forms.TextBox txNombre;
         private System.Windows.Forms.TextBox txCodigo;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
@@ -227,5 +228,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox cbNombre;
     }
 }

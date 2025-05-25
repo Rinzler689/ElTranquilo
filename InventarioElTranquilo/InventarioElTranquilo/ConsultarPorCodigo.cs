@@ -17,15 +17,36 @@ namespace InventarioElTranquilo
         public ConsultarPorCodigo()
         {
             InitializeComponent();
+            cargarProducto();
         }
 
         private void limpiar()
         {
-            txCodigo.Clear();
+            cbCodigo.Text = "";
+            cbCodigo.SelectedIndex = -1; // sin selección 
             txNombre.Clear();
             txPrecio.Clear();
             txStock.Clear();
             txNit.Clear();
+        }
+        private void cargarProducto()
+        {
+            try
+            {
+                dynamic respuesta = DbApi.Get(urlAPI);
+                string[] contenido = respuesta.ToString().Split('}');
+
+                for (int i = 0; i < contenido.Length - 1; i++)
+                {
+
+                    cbCodigo.Items.Add(respuesta[i].COD_PRODUCTO.ToString());
+
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al cargar los productos: " + ex.Message);
+            }
         }
         private void btConsultarCodigo_Click(object sender, EventArgs e)
         {
@@ -35,7 +56,7 @@ namespace InventarioElTranquilo
             for (int i = 0; i < contenido.Length - 1; i++)
             {
 
-                if (txCodigo.Text == respuesta[i].COD_PRODUCTO.ToString())
+                if (cbCodigo.Text == respuesta[i].COD_PRODUCTO.ToString())
                 {
                     txNombre.Text = respuesta[i].NOMBRE.ToString();
                     txPrecio.Text = respuesta[i].PRECIO.ToString();
