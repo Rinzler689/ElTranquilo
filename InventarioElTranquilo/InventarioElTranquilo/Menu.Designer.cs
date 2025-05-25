@@ -105,6 +105,7 @@
             this.btEliminarProducto.Size = new System.Drawing.Size(114, 22);
             this.btEliminarProducto.Text = "Eliminar Producto";
             this.btEliminarProducto.Visible = false;
+            this.btEliminarProducto.Click += new System.EventHandler(this.btEliminarProducto_Click);
             // 
             // btNovedades
             // 

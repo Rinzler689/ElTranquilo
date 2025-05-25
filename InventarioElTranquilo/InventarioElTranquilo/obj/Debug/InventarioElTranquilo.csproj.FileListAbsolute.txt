@@ -110,3 +110,4 @@ C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTr
 C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.exe
 C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.pdb
 C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.ActualizarProducto.resources
+C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.EliminarProducto.resources

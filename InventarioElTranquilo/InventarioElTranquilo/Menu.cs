@@ -80,5 +80,12 @@ namespace InventarioElTranquilo
             objActualizarProducto.MdiParent = this;
             objActualizarProducto.Show();   
         }
+
+        private void btEliminarProducto_Click(object sender, EventArgs e)
+        {
+            EliminarProducto objEliminarProducto = new EliminarProducto();  
+            objEliminarProducto.MdiParent = this;
+            objEliminarProducto.Show();
+        }
     }
 }
