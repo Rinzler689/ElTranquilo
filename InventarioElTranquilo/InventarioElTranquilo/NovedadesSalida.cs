@@ -124,6 +124,8 @@ namespace InventarioElTranquilo
 
         private void btSalida_Click(object sender, EventArgs e)
         {
+
+
             Producto objProducto = leerProducto();
 
             // Validar si leerProducto() retornó null
@@ -131,6 +133,14 @@ namespace InventarioElTranquilo
             {
                 return; // No continuar si los datos son inválidos o incompletos
             }
+
+            if (objProducto.Stock < Int32.Parse(txCantUnidades.Text) || Int32.Parse(txCantUnidades.Text)<0 )
+            {
+                MessageBox.Show("El valor ingresado no es valido");
+                txCantUnidades.Clear();
+                return; // No continuar si los datos son inválidos o incompletos
+            }
+
 
             string json = JsonConvert.SerializeObject(objProducto);
             dynamic respuesta = DbApi.Put(urlAPI, json);

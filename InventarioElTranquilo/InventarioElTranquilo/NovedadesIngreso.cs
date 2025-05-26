@@ -126,9 +126,43 @@ namespace InventarioElTranquilo
         private void btIngresar_Click(object sender, EventArgs e)
         {
 
+            Producto objProducto = leerProducto();
+
+            // Validar si leerProducto() retornó null
+            if (objProducto == null)
+            {
+                return; // No continuar si los datos son inválidos o incompletos
+            }
+
+            if ( Int32.Parse(txCantUnidades.Text) < 0)
+            {
+                MessageBox.Show("El valor ingresado no es valido");
+                txCantUnidades.Clear();
+                return; // No continuar si los datos son inválidos o incompletos
+            }
+
+
+            string json = JsonConvert.SerializeObject(objProducto);
+            dynamic respuesta = DbApi.Put(urlAPI, json);
+            if (respuesta == 1)
+            {
+                MessageBox.Show("Se ha dado Ingreso  a " + txCantUnidades.Text + " de " + objProducto.Nombre + "\r\n"
+                    + " la nueva cantidad de unidades es: " + objProducto.Stock);
+                btIngresar.Enabled = false;
+                txNombre.Clear();
+                txPrecio.Clear();
+                txUnidades.Clear();
+                txProveedor.Clear();
+                txCantUnidades.Clear();
+
+            }
+            else
+            {
+                MessageBox.Show("No se pudo dar ingreso a las unidades.");
+            }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btRegresar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
