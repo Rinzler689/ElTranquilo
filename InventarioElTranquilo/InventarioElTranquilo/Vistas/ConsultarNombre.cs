@@ -19,6 +19,13 @@ namespace InventarioElTranquilo
             cargarProducto();
         }
 
+        private void panelConsultaNombreAjustar(object sender, EventArgs e)
+        {
+            panelConsultaNombre.Left = (this.ClientSize.Width - panelConsultaNombre.Width) / 2;
+            panelConsultaNombre.Top = (this.ClientSize.Height - panelConsultaNombre.Height) / 2;
+            panelConsultaNombre.Anchor = AnchorStyles.None;
+        }
+
         private void limpiar()
         {
             txCodigo.Clear();

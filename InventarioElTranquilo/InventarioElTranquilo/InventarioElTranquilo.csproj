@@ -84,91 +84,90 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActualizarProducto.cs">
+    <Compile Include="Vistas\ActualizarProducto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ActualizarProducto.Designer.cs">
+    <Compile Include="Vistas\ActualizarProducto.Designer.cs">
       <DependentUpon>ActualizarProducto.cs</DependentUpon>
     </Compile>
-    <Compile Include="AgregarProducto.cs">
+    <Compile Include="Vistas\AgregarProducto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AgregarProducto.Designer.cs">
+    <Compile Include="Vistas\AgregarProducto.Designer.cs">
       <DependentUpon>AgregarProducto.cs</DependentUpon>
     </Compile>
-    <Compile Include="ConsultarNombre.cs">
+    <Compile Include="Vistas\ConsultarNombre.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ConsultarNombre.Designer.cs">
+    <Compile Include="Vistas\ConsultarNombre.Designer.cs">
       <DependentUpon>ConsultarNombre.cs</DependentUpon>
     </Compile>
-    <Compile Include="ConsultarPorCodigo.cs">
+    <Compile Include="Vistas\ConsultarPorCodigo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ConsultarPorCodigo.Designer.cs">
+    <Compile Include="Vistas\ConsultarPorCodigo.Designer.cs">
       <DependentUpon>ConsultarPorCodigo.cs</DependentUpon>
     </Compile>
     <Compile Include="DbApi.cs" />
-    <Compile Include="EliminarProducto.cs">
+    <Compile Include="Vistas\EliminarProducto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EliminarProducto.Designer.cs">
+    <Compile Include="Vistas\EliminarProducto.Designer.cs">
       <DependentUpon>EliminarProducto.cs</DependentUpon>
     </Compile>
-    <Compile Include="General.cs" />
-    <Compile Include="Login.cs">
+    <Compile Include="Vistas\Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login.Designer.cs">
+    <Compile Include="Vistas\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="Menu.cs">
+    <Compile Include="Vistas\Menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Menu.Designer.cs">
+    <Compile Include="Vistas\Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
-    <Compile Include="NovedadesIngreso.cs">
+    <Compile Include="Vistas\NovedadesIngreso.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="NovedadesIngreso.Designer.cs">
+    <Compile Include="Vistas\NovedadesIngreso.Designer.cs">
       <DependentUpon>NovedadesIngreso.cs</DependentUpon>
     </Compile>
-    <Compile Include="NovedadesSalida.cs">
+    <Compile Include="Vistas\NovedadesSalida.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="NovedadesSalida.Designer.cs">
+    <Compile Include="Vistas\NovedadesSalida.Designer.cs">
       <DependentUpon>NovedadesSalida.cs</DependentUpon>
     </Compile>
-    <Compile Include="Producto.cs" />
+    <Compile Include="Modelos\Producto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Usuario.cs" />
-    <EmbeddedResource Include="ActualizarProducto.resx">
+    <Compile Include="Modelos\Usuario.cs" />
+    <EmbeddedResource Include="Vistas\ActualizarProducto.resx">
       <DependentUpon>ActualizarProducto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AgregarProducto.resx">
+    <EmbeddedResource Include="Vistas\AgregarProducto.resx">
       <DependentUpon>AgregarProducto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ConsultarNombre.resx">
+    <EmbeddedResource Include="Vistas\ConsultarNombre.resx">
       <DependentUpon>ConsultarNombre.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ConsultarPorCodigo.resx">
+    <EmbeddedResource Include="Vistas\ConsultarPorCodigo.resx">
       <DependentUpon>ConsultarPorCodigo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="EliminarProducto.resx">
+    <EmbeddedResource Include="Vistas\EliminarProducto.resx">
       <DependentUpon>EliminarProducto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login.resx">
+    <EmbeddedResource Include="Vistas\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Menu.resx">
+    <EmbeddedResource Include="Vistas\Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NovedadesIngreso.resx">
+    <EmbeddedResource Include="Vistas\NovedadesIngreso.resx">
       <DependentUpon>NovedadesIngreso.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NovedadesSalida.resx">
+    <EmbeddedResource Include="Vistas\NovedadesSalida.resx">
       <DependentUpon>NovedadesSalida.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
