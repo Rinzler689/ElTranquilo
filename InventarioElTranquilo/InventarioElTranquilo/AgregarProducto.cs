@@ -21,6 +21,12 @@ namespace InventarioElTranquilo
             InitializeComponent();
             cargarProveedores();
         }
+        private void panelAgregarProductoAjustar(object sender, EventArgs e)
+        {
+            panelAgregarProducto.Left = (this.ClientSize.Width - panelAgregarProducto.Width) / 2;
+            panelAgregarProducto.Top = (this.ClientSize.Height - panelAgregarProducto.Height) / 2;
+            panelAgregarProducto.Anchor = AnchorStyles.None;
+        }
 
         private void cargarProveedores()
         {

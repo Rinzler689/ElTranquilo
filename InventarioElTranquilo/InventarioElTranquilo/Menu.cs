@@ -25,13 +25,15 @@ namespace InventarioElTranquilo
                 case 11:
                     btConsultarProducto.Visible = true;
                     btNovedades.Visible = true;
+                    MessageBox.Show("Bienvenido, Operario de Bodega");
                     break;
+
                 case 22:
                     btConsultarProducto.Visible= true;
                     btAgregarProducto.Visible = true;
                     btActualizarProducto.Visible = true;
-                    btEliminarProducto.Visible = true;  
-
+                    btEliminarProducto.Visible = true;
+                    MessageBox.Show("Bienvenido, Coordinador de Inventario");
                     break;
 
                 case 33:
@@ -40,9 +42,8 @@ namespace InventarioElTranquilo
                     btActualizarProducto.Visible = true;
                     btEliminarProducto.Visible = true;
                     btNovedades.Visible = true;
+                    MessageBox.Show("Bienvenido, Auxiliar Administrativo");
                     break;
-
-
             }
         }
 

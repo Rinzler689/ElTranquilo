@@ -6,8 +6,10 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.UI;
 using System.Windows.Forms;
 using Newtonsoft.Json;
+      
 namespace InventarioElTranquilo
 {
     public partial class Login : Form
@@ -18,8 +20,12 @@ namespace InventarioElTranquilo
             InitializeComponent();
         }
 
-
-
+        private void panelLoginAjustar(object sender, EventArgs e) 
+        {
+            panelLogin.Left = (this.ClientSize.Width - panelLogin.Width) / 2;
+            panelLogin.Top = (this.ClientSize.Height - panelLogin.Height) / 2;
+            panelLogin.Anchor = AnchorStyles.None;
+        }
         private void limpiar()
         {
             txUsuario.Clear();

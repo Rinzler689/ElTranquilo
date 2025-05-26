@@ -73,7 +73,7 @@
             // 
             this.txStock.Enabled = false;
             this.txStock.Location = new System.Drawing.Point(132, 353);
-            this.txStock.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txStock.Margin = new System.Windows.Forms.Padding(4);
             this.txStock.Name = "txStock";
             this.txStock.Size = new System.Drawing.Size(132, 22);
             this.txStock.TabIndex = 39;
@@ -82,7 +82,7 @@
             // 
             this.txPrecio.Enabled = false;
             this.txPrecio.Location = new System.Drawing.Point(140, 295);
-            this.txPrecio.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txPrecio.Margin = new System.Windows.Forms.Padding(4);
             this.txPrecio.Name = "txPrecio";
             this.txPrecio.Size = new System.Drawing.Size(132, 22);
             this.txPrecio.TabIndex = 38;
@@ -91,7 +91,7 @@
             // 
             this.txNombre.Enabled = false;
             this.txNombre.Location = new System.Drawing.Point(152, 235);
-            this.txNombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txNombre.Margin = new System.Windows.Forms.Padding(4);
             this.txNombre.Name = "txNombre";
             this.txNombre.Size = new System.Drawing.Size(132, 22);
             this.txNombre.TabIndex = 37;
@@ -102,7 +102,7 @@
             this.label6.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(60, 399);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(108, 24);
+            this.label6.Size = new System.Drawing.Size(130, 29);
             this.label6.TabIndex = 35;
             this.label6.Text = "Nit Proveedor:";
             // 
@@ -112,7 +112,7 @@
             this.label5.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(60, 347);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(55, 24);
+            this.label5.Size = new System.Drawing.Size(66, 29);
             this.label5.TabIndex = 34;
             this.label5.Text = "Stock:";
             // 
@@ -122,7 +122,7 @@
             this.label4.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(60, 289);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(58, 24);
+            this.label4.Size = new System.Drawing.Size(70, 29);
             this.label4.TabIndex = 33;
             this.label4.Text = "Precio:";
             // 
@@ -132,7 +132,7 @@
             this.label2.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(60, 229);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(70, 24);
+            this.label2.Size = new System.Drawing.Size(85, 29);
             this.label2.TabIndex = 32;
             this.label2.Text = "Nombre:";
             // 
@@ -142,7 +142,7 @@
             this.label3.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(60, 177);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(64, 24);
+            this.label3.Size = new System.Drawing.Size(78, 29);
             this.label3.TabIndex = 31;
             this.label3.Text = "Codigo:";
             // 
@@ -152,7 +152,7 @@
             this.label1.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(409, 48);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(184, 30);
+            this.label1.Size = new System.Drawing.Size(231, 38);
             this.label1.TabIndex = 30;
             this.label1.Text = "Actualizar Producto";
             // 
@@ -160,7 +160,7 @@
             // 
             this.cbCodigo.FormattingEnabled = true;
             this.cbCodigo.Location = new System.Drawing.Point(165, 180);
-            this.cbCodigo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbCodigo.Margin = new System.Windows.Forms.Padding(4);
             this.cbCodigo.Name = "cbCodigo";
             this.cbCodigo.Size = new System.Drawing.Size(160, 24);
             this.cbCodigo.TabIndex = 44;
@@ -171,7 +171,7 @@
             this.cbNit.Enabled = false;
             this.cbNit.FormattingEnabled = true;
             this.cbNit.Location = new System.Drawing.Point(212, 401);
-            this.cbNit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbNit.Margin = new System.Windows.Forms.Padding(4);
             this.cbNit.Name = "cbNit";
             this.cbNit.Size = new System.Drawing.Size(160, 24);
             this.cbNit.TabIndex = 45;
@@ -208,7 +208,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ActualizarProducto";
             this.Text = "ActualizarProducto";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
