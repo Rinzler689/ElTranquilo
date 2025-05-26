@@ -122,12 +122,14 @@
             this.btIngresoProducto.Name = "btIngresoProducto";
             this.btIngresoProducto.Size = new System.Drawing.Size(181, 22);
             this.btIngresoProducto.Text = "Ingreso de Producto";
+            this.btIngresoProducto.Click += new System.EventHandler(this.btIngresoProducto_Click);
             // 
             // btSalidaProducto
             // 
             this.btSalidaProducto.Name = "btSalidaProducto";
             this.btSalidaProducto.Size = new System.Drawing.Size(181, 22);
             this.btSalidaProducto.Text = "Salida de Producto";
+            this.btSalidaProducto.Click += new System.EventHandler(this.btSalidaProducto_Click);
             // 
             // salirToolStripMenuItem
             // 
