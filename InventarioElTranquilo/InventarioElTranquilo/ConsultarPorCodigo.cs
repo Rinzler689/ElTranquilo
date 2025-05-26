@@ -74,6 +74,7 @@ namespace InventarioElTranquilo
         private void btRegresar_Click(object sender, EventArgs e)
         {
             this.Close();
+
         }
 
         private void btLimpiar_Click(object sender, EventArgs e)

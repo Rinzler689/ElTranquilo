@@ -113,3 +113,8 @@ C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTr
 C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.EliminarProducto.resources
 C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.NovedadesIngreso.resources
 C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.NovedadesSalida.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Proyecto_ElTranquilo\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.ActualizarProducto.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Proyecto_ElTranquilo\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.EliminarProducto.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Proyecto_ElTranquilo\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.NovedadesIngreso.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Proyecto_ElTranquilo\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.NovedadesSalida.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Proyecto_ElTranquilo\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\bin\Debug\MaterialSkin.dll
