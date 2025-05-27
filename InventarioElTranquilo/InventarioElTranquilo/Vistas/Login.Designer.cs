@@ -76,6 +76,7 @@
             // 
             // btLimpiar
             // 
+            this.btLimpiar.BackColor = System.Drawing.Color.PowderBlue;
             this.btLimpiar.Font = new System.Drawing.Font("Franklin Gothic Heavy", 13.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btLimpiar.Location = new System.Drawing.Point(758, 333);
             this.btLimpiar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -83,11 +84,12 @@
             this.btLimpiar.Size = new System.Drawing.Size(145, 56);
             this.btLimpiar.TabIndex = 7;
             this.btLimpiar.Text = "Limpiar";
-            this.btLimpiar.UseVisualStyleBackColor = true;
+            this.btLimpiar.UseVisualStyleBackColor = false;
             this.btLimpiar.Click += new System.EventHandler(this.btLimpiar_Click);
             // 
             // btSalir
             // 
+            this.btSalir.BackColor = System.Drawing.Color.PowderBlue;
             this.btSalir.Font = new System.Drawing.Font("Franklin Gothic Heavy", 13.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSalir.Location = new System.Drawing.Point(758, 454);
             this.btSalir.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -95,7 +97,7 @@
             this.btSalir.Size = new System.Drawing.Size(145, 56);
             this.btSalir.TabIndex = 8;
             this.btSalir.Text = "Salir";
-            this.btSalir.UseVisualStyleBackColor = true;
+            this.btSalir.UseVisualStyleBackColor = false;
             this.btSalir.Click += new System.EventHandler(this.btSalir_Click);
             // 
             // label1

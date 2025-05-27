@@ -16,7 +16,7 @@
     Nombre:&nbsp;
     <asp:TextBox ID="txNombre" runat="server" Width="261px" ReadOnly="True"></asp:TextBox>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <asp:Button ID="btConsultar" runat="server" OnClick="btConsultar_Click" Text="Consultar" Width="146px" />
+    <asp:Button ID="btConsultar" runat="server" OnClick="btConsultar_Click" Text="Consultar" Width="146px" BackColor="#33CCCC" BorderColor="White" />
 </p>
 <p>
     Precio:&nbsp;
@@ -27,13 +27,13 @@
     Stock:&nbsp;&nbsp;
     <asp:TextBox ID="txStock" runat="server" Width="278px" ReadOnly="True"></asp:TextBox>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <asp:Button ID="btLimpiar" runat="server" Text="Limpiar" Width="139px" OnClick="btLimpiar_Click" />
+    <asp:Button ID="btLimpiar" runat="server" Text="Limpiar" Width="139px" OnClick="btLimpiar_Click" BackColor="#33CCCC" BorderColor="White" />
 </p>
 <p>
     Nit_Proveedor:&nbsp;
     <asp:TextBox ID="txNitProveedor" runat="server" Width="218px" ReadOnly="True"></asp:TextBox>
 </p>
-<p>
+<p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">
 </p>
 <p>
 </p>

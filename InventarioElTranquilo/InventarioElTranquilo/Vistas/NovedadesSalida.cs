@@ -22,6 +22,13 @@ namespace InventarioElTranquilo
             cargarProducto();
         }
 
+        private void panelSalidaProductoAjustar(object sender, EventArgs e)
+        {
+            panelSalidaProducto.Left = (this.ClientSize.Width - panelSalidaProducto.Width) / 2;
+            panelSalidaProducto.Top = (this.ClientSize.Height - panelSalidaProducto.Height) / 2;
+            panelSalidaProducto.Anchor = AnchorStyles.None;
+        }
+
         private void cargarProducto()
         {
             try

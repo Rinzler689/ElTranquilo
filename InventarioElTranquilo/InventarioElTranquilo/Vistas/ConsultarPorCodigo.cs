@@ -20,6 +20,13 @@ namespace InventarioElTranquilo
             cargarProducto();
         }
 
+        private void panelConsultaCodigoAjustar(object sender, EventArgs e)
+        {
+            panelConsultaCodigo.Left = (this.ClientSize.Width - panelConsultaCodigo.Width) / 2;
+            panelConsultaCodigo.Top = (this.ClientSize.Height - panelConsultaCodigo.Height) / 2;
+            panelConsultaCodigo.Anchor = AnchorStyles.None;
+        }
+
         private void limpiar()
         {
             cbCodigo.Text = "";
