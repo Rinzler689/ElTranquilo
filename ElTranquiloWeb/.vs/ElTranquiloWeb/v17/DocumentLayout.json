@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|c:\\users\\usuario\\onedrive\\escritorio\\proyecto_eltranquilo\\eltranquilo\\eltranquiloweb\\eltranquiloweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|c:\\users\\usuario\\onedrive\\escritorio\\proyecto_eltranquilo\\eltranquilo\\eltranquiloweb\\eltranquiloweb\\vista\\consultaproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\vista\\consultaproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\eltranquiloweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\eltranquiloweb\\vista\\vistaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|c:\\users\\usuario\\onedrive\\escritorio\\proyecto_eltranquilo\\eltranquilo\\eltranquiloweb\\eltranquiloweb\\vista\\vistaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\vista\\vistaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\eltranquiloweb\\vista\\maestrodetalle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|c:\\users\\usuario\\onedrive\\escritorio\\proyecto_eltranquilo\\eltranquilo\\eltranquiloweb\\eltranquiloweb\\vista\\maestrodetalle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\vista\\maestrodetalle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\eltranquiloweb\\controlador\\manejoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\controlador\\manejoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\eltranquiloweb\\modelo\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\modelo\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\eltranquiloweb\\controlador\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\controlador\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,26 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConsultaProducto.aspx",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\ConsultaProducto.aspx",
-              "RelativeDocumentMoniker": "ElTranquiloWeb\\Vista\\ConsultaProducto.aspx",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\ConsultaProducto.aspx",
-              "RelativeToolTip": "ElTranquiloWeb\\Vista\\ConsultaProducto.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-26T05:24:29.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Site.Master",
               "RelativeDocumentMoniker": "ElTranquiloWeb\\Site.Master",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Site.Master",
               "RelativeToolTip": "ElTranquiloWeb\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-26T05:22:41.099Z",
+              "WhenOpened": "2025-05-27T15:34:11.966Z",
               "EditorCaption": ""
             },
             {
@@ -71,11 +47,12 @@
               "Title": "VistaProductos.aspx",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\VistaProductos.aspx",
               "RelativeDocumentMoniker": "ElTranquiloWeb\\Vista\\VistaProductos.aspx",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\VistaProductos.aspx",
-              "RelativeToolTip": "ElTranquiloWeb\\Vista\\VistaProductos.aspx",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\VistaProductos.aspx*",
+              "RelativeToolTip": "ElTranquiloWeb\\Vista\\VistaProductos.aspx*",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-26T05:21:09.983Z"
+              "WhenOpened": "2025-05-27T15:13:10.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,47 +60,25 @@
               "Title": "MaestroDetalle.aspx",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\MaestroDetalle.aspx",
               "RelativeDocumentMoniker": "ElTranquiloWeb\\Vista\\MaestroDetalle.aspx",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\MaestroDetalle.aspx",
-              "RelativeToolTip": "ElTranquiloWeb\\Vista\\MaestroDetalle.aspx",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\MaestroDetalle.aspx*",
+              "RelativeToolTip": "ElTranquiloWeb\\Vista\\MaestroDetalle.aspx*",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-26T05:08:28.621Z"
+              "WhenOpened": "2025-05-27T15:13:07.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManejoProductos.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Controlador\\ManejoProductos.cs",
-              "RelativeDocumentMoniker": "ElTranquiloWeb\\Controlador\\ManejoProductos.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Controlador\\ManejoProductos.cs",
-              "RelativeToolTip": "ElTranquiloWeb\\Controlador\\ManejoProductos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T03:44:51.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Controlador\\Producto.cs",
-              "RelativeDocumentMoniker": "ElTranquiloWeb\\Controlador\\Producto.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Controlador\\Producto.cs",
-              "RelativeToolTip": "ElTranquiloWeb\\Controlador\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T03:40:49.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DB.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Modelo\\DB.cs",
-              "RelativeDocumentMoniker": "ElTranquiloWeb\\Modelo\\DB.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Modelo\\DB.cs",
-              "RelativeToolTip": "ElTranquiloWeb\\Modelo\\DB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T03:38:07.872Z"
+              "DocumentIndex": 1,
+              "Title": "ConsultaProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\ConsultaProducto.aspx",
+              "RelativeDocumentMoniker": "ElTranquiloWeb\\Vista\\ConsultaProducto.aspx",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\ConsultaProducto.aspx",
+              "RelativeToolTip": "ElTranquiloWeb\\Vista\\ConsultaProducto.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T15:09:34.172Z",
+              "EditorCaption": ""
             }
           ]
         }

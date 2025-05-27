@@ -10,7 +10,7 @@
             <asp:BoundField DataField="NOMBRE" HeaderText="NOMBRE" SortExpression="NOMBRE" />
             <asp:BoundField DataField="PRECIO" HeaderText="PRECIO" SortExpression="PRECIO" />
             <asp:BoundField DataField="STOCK" HeaderText="STOCK" SortExpression="STOCK" />
-            <asp:BoundField DataField="NIT_PROVEEDOR" HeaderText="NIT_PROVEEDOR" SortExpression="NIT_PROVEEDOR" />
+            <asp:BoundField DataField="NOMBRE PROVEEDOR" HeaderText="NOMBRE PROVEEDOR" SortExpression="NOMBRE PROVEEDOR" />
         </Columns>
         <FooterStyle BackColor="#C6C3C6" ForeColor="Black" />
         <HeaderStyle BackColor="#4A3C8C" Font-Bold="True" ForeColor="#E7E7FF" />
@@ -22,7 +22,7 @@
         <SortedDescendingCellStyle BackColor="#CAC9C9" />
         <SortedDescendingHeaderStyle BackColor="#33276A" />
     </asp:GridView>
-    <asp:SqlDataSource ID="SqlDataVistaProductos" runat="server" ConnectionString="<%$ ConnectionStrings:db20030ConsultaProducto %>" SelectCommand="SELECT * FROM [PRODUCTO]"></asp:SqlDataSource>
+    <asp:SqlDataSource ID="SqlDataVistaProductos" runat="server" ConnectionString="<%$ ConnectionStrings:db20030ConsultaProducto %>" SelectCommand="SELECT * FROM [CONSULTA_PRODUCTOS]"></asp:SqlDataSource>
 </p>
 <p>
 </p>
