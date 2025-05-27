@@ -33,7 +33,7 @@ namespace InventarioElTranquilo
 
         private void limpiar()
         {
-            cbCodigo.SelectedIndex = -1;
+            
             txNombre.Clear();
             txPrecio.Clear();
             txStock.Clear();

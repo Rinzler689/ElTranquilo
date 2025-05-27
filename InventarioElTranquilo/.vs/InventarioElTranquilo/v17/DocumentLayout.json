@@ -3,25 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\kevin\\desktop\\proyecto\\eltranquilo\\inventarioeltranquilo\\inventarioeltranquilo\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\kevin\\desktop\\proyecto\\eltranquilo\\inventarioeltranquilo\\inventarioeltranquilo\\vistas\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\vistas\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\kevin\\desktop\\proyecto\\eltranquilo\\inventarioeltranquilo\\inventarioeltranquilo\\vistas\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\vistas\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\inventarioeltranquilo\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\kevin\\desktop\\proyecto\\eltranquilo\\inventarioeltranquilo\\inventarioeltranquilo\\vistas\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\vistas\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\kevin\\desktop\\proyecto\\eltranquilo\\inventarioeltranquilo\\inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\proyecto_eltranquilo\\eltranquilo\\inventarioeltranquilo\\inventarioeltranquilo\\vistas\\novedadessalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\vistas\\novedadessalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
->>>>>>> 1bd22b796b85464e55d53dcf8c33a6cdf61d98c7
+      "AbsoluteMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\inventarioeltranquilo\\vistas\\novedadesingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D274C6A-3516-429B-A995-2ADA18B14970}|InventarioElTranquilo\\InventarioElTranquilo.csproj|solutionrelative:inventarioeltranquilo\\vistas\\novedadesingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,73 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-<<<<<<< HEAD
-              "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "InventarioElTranquilo\\Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Properties\\Resources.resx",
-              "RelativeToolTip": "InventarioElTranquilo\\Properties\\Resources.resx",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-26T23:29:32.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs",
-              "RelativeDocumentMoniker": "InventarioElTranquilo\\Login.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs",
-              "RelativeToolTip": "InventarioElTranquilo\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T23:21:29.325Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Login.Designer.cs",
-              "RelativeDocumentMoniker": "InventarioElTranquilo\\Login.Designer.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Login.Designer.cs",
-              "RelativeToolTip": "InventarioElTranquilo\\Login.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\Vistas\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\Menu.Designer.cs",
+              "RelativeToolTip": "InventarioElTranquilo\\Vistas\\Menu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T23:21:17.373Z",
+              "WhenOpened": "2025-05-27T17:22:17.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs",
-              "RelativeDocumentMoniker": "InventarioElTranquilo\\Login.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "InventarioElTranquilo\\Login.cs [Dise\u00F1o]",
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\Menu.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\Vistas\\Menu.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\Menu.cs",
+              "RelativeToolTip": "InventarioElTranquilo\\Vistas\\Menu.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:06:54.685Z",
+              "WhenOpened": "2025-05-27T17:22:28.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\Menu.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\Vistas\\Menu.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InventarioElTranquilo\\Vistas\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:20:28.487Z",
               "EditorCaption": " [Dise\u00F1o]"
-=======
-              "Title": "NovedadesSalida.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\NovedadesSalida.cs",
-              "RelativeDocumentMoniker": "InventarioElTranquilo\\Vistas\\NovedadesSalida.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Proyecto_ElTranquilo\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\NovedadesSalida.cs [Design]",
-              "RelativeToolTip": "InventarioElTranquilo\\Vistas\\NovedadesSalida.cs [Design]",
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NovedadesIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\NovedadesIngreso.cs",
+              "RelativeDocumentMoniker": "InventarioElTranquilo\\Vistas\\NovedadesIngreso.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\InventarioElTranquilo\\InventarioElTranquilo\\Vistas\\NovedadesIngreso.cs",
+              "RelativeToolTip": "InventarioElTranquilo\\Vistas\\NovedadesIngreso.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwDYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:08:18.752Z",
-              "EditorCaption": " [Design]"
->>>>>>> 1bd22b796b85464e55d53dcf8c33a6cdf61d98c7
+              "WhenOpened": "2025-05-27T16:53:24.823Z",
+              "EditorCaption": ""
             }
           ]
         }

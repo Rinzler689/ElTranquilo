@@ -4,9 +4,9 @@
     <br />
     Tabla Productos Registrados</strong></h2>
 <p>
-    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" BackColor="White" BorderColor="White" BorderStyle="Ridge" BorderWidth="2px" CellPadding="3" CellSpacing="1" DataKeyNames="COD_PRODUCTO" DataSourceID="SqlDataVistaProductos" GridLines="None" Height="418px" Width="1120px">
+    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" BackColor="White" BorderColor="White" BorderStyle="Ridge" BorderWidth="2px" CellPadding="3" CellSpacing="1" DataKeyNames="CODIGO PRODUCTO" DataSourceID="SqlDataVistaProductos" GridLines="None" Height="418px" Width="1120px">
         <Columns>
-            <asp:BoundField DataField="COD_PRODUCTO" HeaderText="COD_PRODUCTO" ReadOnly="True" SortExpression="COD_PRODUCTO" />
+            <asp:BoundField DataField="CODIGO PRODUCTO" HeaderText="CODIGO PRODUCTO" ReadOnly="True" SortExpression="CODIGO PRODUCTO" />
             <asp:BoundField DataField="NOMBRE" HeaderText="NOMBRE" SortExpression="NOMBRE" />
             <asp:BoundField DataField="PRECIO" HeaderText="PRECIO" SortExpression="PRECIO" />
             <asp:BoundField DataField="STOCK" HeaderText="STOCK" SortExpression="STOCK" />

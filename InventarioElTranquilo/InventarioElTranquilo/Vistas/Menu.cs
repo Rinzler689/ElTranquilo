@@ -26,6 +26,7 @@ namespace InventarioElTranquilo
                     btConsultarProducto.Visible = true;
                     btNovedades.Visible = true;
                     MessageBox.Show("Bienvenido, Operario de Bodega");
+                    
                     break;
 
                 case 22:
@@ -43,6 +44,7 @@ namespace InventarioElTranquilo
                     btEliminarProducto.Visible = true;
                     btNovedades.Visible = true;
                     MessageBox.Show("Bienvenido, Auxiliar Administrativo");
+                   
                     break;
             }
         }

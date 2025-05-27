@@ -63,6 +63,12 @@ namespace InventarioElTranquilo
                 int cod_producto = Int32.Parse(cbCodigo.SelectedItem.ToString());
                 string nombre = txNombre.Text;
                 double precio = Double.Parse(txPrecio.Text);
+                if (Int32.Parse(txCantUnidades.Text) < 0)
+                {
+                    MessageBox.Show("El valor ingresado no es valido");
+                    txCantUnidades.Clear();
+                    return null; // No continuar si los datos son inválidos o incompletos
+                }
                 int stock = Int32.Parse(txUnidades.Text)+ Int32.Parse(txCantUnidades.Text);
                 int nit_Proveedor = Int32.Parse(nit_proveedor); // Atributo objeto = varibale global nit Proveedor
 
@@ -141,19 +147,14 @@ namespace InventarioElTranquilo
                 return; // No continuar si los datos son inválidos o incompletos
             }
 
-            if ( Int32.Parse(txCantUnidades.Text) < 0)
-            {
-                MessageBox.Show("El valor ingresado no es valido");
-                txCantUnidades.Clear();
-                return; // No continuar si los datos son inválidos o incompletos
-            }
+ 
 
 
             string json = JsonConvert.SerializeObject(objProducto);
             dynamic respuesta = DbApi.Put(urlAPI, json);
             if (respuesta == 1)
             {
-                MessageBox.Show("Se ha dado Ingreso  a " + txCantUnidades.Text + " de " + objProducto.Nombre + "\r\n"
+                MessageBox.Show("Se ha dado Ingreso  a " + txCantUnidades.Text + " Unidades de " + objProducto.Nombre + "\r\n"
                     + " la nueva cantidad de unidades es: " + objProducto.Stock);
                 btIngresar.Enabled = false;
                 txNombre.Clear();
