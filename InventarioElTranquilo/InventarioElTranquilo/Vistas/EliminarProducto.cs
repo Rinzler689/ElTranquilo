@@ -20,6 +20,13 @@ namespace InventarioElTranquilo
             InitializeComponent();
             cargarProductos();
         }
+
+        private void panelEliminarProductoAjustar(object sender, EventArgs e)
+        {
+            panelEliminarProducto.Left = (this.ClientSize.Width - panelEliminarProducto.Width) / 2;
+            panelEliminarProducto.Top = (this.ClientSize.Height - panelEliminarProducto.Height) / 2;
+            panelEliminarProducto.Anchor = AnchorStyles.None;
+        }
         private void cargarProductos()
         {
             try

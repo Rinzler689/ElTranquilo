@@ -24,6 +24,13 @@ namespace InventarioElTranquilo
             cargarProveedores();
         }
 
+        private void panelActualizarProductoAjustar(object sender, EventArgs e)
+        {
+            panelActualizarProducto.Left = (this.ClientSize.Width - panelActualizarProducto.Width) / 2;
+            panelActualizarProducto.Top = (this.ClientSize.Height - panelActualizarProducto.Height) / 2;
+            panelActualizarProducto.Anchor = AnchorStyles.None;
+        }
+
         private void limpiar()
         {
             cbCodigo.SelectedIndex = -1;
