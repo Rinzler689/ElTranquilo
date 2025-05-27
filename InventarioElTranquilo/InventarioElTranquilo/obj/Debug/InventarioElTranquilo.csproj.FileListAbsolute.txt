@@ -118,3 +118,4 @@ C:\Users\USUARIO\OneDrive\Escritorio\Proyecto_ElTranquilo\ElTranquilo\Inventario
 C:\Users\USUARIO\OneDrive\Escritorio\Proyecto_ElTranquilo\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.NovedadesIngreso.resources
 C:\Users\USUARIO\OneDrive\Escritorio\Proyecto_ElTranquilo\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\obj\Debug\InventarioElTranquilo.NovedadesSalida.resources
 C:\Users\USUARIO\OneDrive\Escritorio\Proyecto_ElTranquilo\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\bin\Debug\MaterialSkin.dll
+C:\Users\kevin\Desktop\Proyecto\ElTranquilo\InventarioElTranquilo\InventarioElTranquilo\bin\Debug\MaterialSkin.dll
