@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\ElTranquiloWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\ElTranquiloWeb\\eltranquiloweb\\vista\\vistaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|c:\\users\\kevin\\desktop\\proyecto\\eltranquilo\\eltranquiloweb\\eltranquiloweb\\vista\\vistaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\vista\\vistaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|c:\\users\\kevin\\desktop\\proyecto\\eltranquilo\\eltranquiloweb\\eltranquiloweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\ElTranquiloWeb\\eltranquiloweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8D7C2555-746E-4005-89F2-A64302F923A8}|ElTranquiloWeb\\ElTranquiloWeb.csproj|solutionrelative:eltranquiloweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -67,8 +67,7 @@
               "RelativeToolTip": "ElTranquiloWeb\\Vista\\ConsultaProducto.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-26T05:24:29.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T05:24:29.994Z"
             },
             {
               "$type": "Document",
@@ -89,9 +88,9 @@
               "Title": "VistaProductos.aspx",
               "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\VistaProductos.aspx",
               "RelativeDocumentMoniker": "ElTranquiloWeb\\Vista\\VistaProductos.aspx",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\VistaProductos.aspx*",
-              "RelativeToolTip": "ElTranquiloWeb\\Vista\\VistaProductos.aspx*",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Proyecto\\ElTranquilo\\ElTranquiloWeb\\ElTranquiloWeb\\Vista\\VistaProductos.aspx",
+              "RelativeToolTip": "ElTranquiloWeb\\Vista\\VistaProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-05-26T05:21:09.983Z",
               "EditorCaption": ""
@@ -106,8 +105,7 @@
               "RelativeToolTip": "ElTranquiloWeb\\Vista\\MaestroDetalle.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-26T05:08:28.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T05:08:28.621Z"
             },
             {
               "$type": "Document",
@@ -119,8 +117,7 @@
               "RelativeToolTip": "ElTranquiloWeb\\Controlador\\ManejoProductos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T03:44:51.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T03:44:51.094Z"
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "ElTranquiloWeb\\Controlador\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T03:40:49.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T03:40:49.852Z"
             },
             {
               "$type": "Document",
@@ -145,8 +141,7 @@
               "RelativeToolTip": "ElTranquiloWeb\\Modelo\\DB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T03:38:07.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T03:38:07.872Z"
             }
           ]
         }
